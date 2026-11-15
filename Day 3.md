@@ -1,6 +1,6 @@
-### DAY 03 – Technology Selection
+DAY 03 – Technology Selection
 
-**Date:** __________
+Date: 24/6/2026
 
 Today was the third day of my minor project development. Under the guidance of my project mentor, I started researching and selecting the appropriate technologies and tools
 required for developing Veltrix AI. My mentor explained that selecting the right technology stack is an important step because it directly affects the performance,
