@@ -1,6 +1,6 @@
 DAY 01 – Project Introduction and Idea Selection
 
-**Date:** __________
+Date: 22/6/2026
 
 Today was the first day of my minor project development. Under the guidance of my project mentor, I started exploring different project ideas that could solve real-world 
 problems using modern technologies. My mentor guided me to identify a problem that could be addressed through Artificial Intelligence and automation.
