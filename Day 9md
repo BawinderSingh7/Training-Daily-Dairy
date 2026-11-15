@@ -1,6 +1,6 @@
 DAY 09 – MongoDB Atlas Setup
 
-Date: 3/7/2026
+Date: 2/7/2026
 
 Today, I worked on configuring "MongoDB Atlas" as the database for my project, Veltrix AI – Gemini. The purpose of integrating MongoDB is to store and manage important 
 application data, including user contacts and reminder tasks, so that the information can be accessed whenever required.
