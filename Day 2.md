@@ -1,6 +1,6 @@
-### DAY 02 – Requirement Analysis
+DAY 02 – Requirement Analysis
 
-**Date:** __________
+Date: 23/6/2026
 
 Today was the second day of my minor project development. Under the guidance of my project mentor, I started working on the requirement analysis phase of Veltrix AI. My mentor explained that before starting the actual coding process, it is important to understand the problem statement clearly and identify all the requirements of the proposed system.
 
